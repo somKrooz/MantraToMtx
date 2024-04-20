@@ -1,4 +1,4 @@
-<img src="/icon/mtx.png" width="30%" />
+<img src="/MtxConvertor/icon/mtx.png" width="30%" />
 # Plugin for converting mantra materials to materialX <br/>
 # Installation
 
